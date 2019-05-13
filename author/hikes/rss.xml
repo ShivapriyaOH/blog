@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>jekyller.github.io/test/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://0.0.0.0:4000</link>
    <description>A travel blog </description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>

@@ -4,7 +4,7 @@
     <title>Mountains are calling...And we must go... - Articles</title>
     <description>A travel blog </description>
     <link>
-    </link>
+    http://0.0.0.0:4000</link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
         <link>
-        /Vargas-blog</link>
-        <guid isPermaLink="true">/Vargas-blog</guid>
+        http://0.0.0.0:4000/Vargas-blog</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/Vargas-blog</guid>
       </item>
       
     
@@ -31,8 +31,8 @@
         
         <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
         <link>
-        /MissionPeak-blog</link>
-        <guid isPermaLink="true">/MissionPeak-blog</guid>
+        http://0.0.0.0:4000/MissionPeak-blog</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/MissionPeak-blog</guid>
       </item>
       
     
@@ -46,8 +46,8 @@
         
         <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
         <link>
-        /Cayman-blog</link>
-        <guid isPermaLink="true">/Cayman-blog</guid>
+        http://0.0.0.0:4000/Cayman-blog</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/Cayman-blog</guid>
       </item>
       
     
