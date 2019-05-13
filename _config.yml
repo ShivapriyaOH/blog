@@ -14,7 +14,7 @@ description: "A travel blog "
 google_analytics: 
 disqus: shivapriyaoh
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog
+baseurl: /blog/
 url: "https://shivapriyaoh.github.io"
 
 # Permalinks
