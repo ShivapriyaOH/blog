@@ -10,11 +10,12 @@ language: 'en-uk'
 name: 'Mountains are calling...And we must go...'
 description: "A travel blog "
 
-short_url: 'jekyller.github.io/test/'
+#short_url: 'jekyller.github.io/test/'
 google_analytics: 
 disqus: shivapriyaoh
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /blog
+url: "https://shivapriyaoh.github.io"
 
 # Permalinks
 permalink: /:title
