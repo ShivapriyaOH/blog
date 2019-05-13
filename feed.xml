@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mountains are calling...And we must go... - Articles</title>
+    <description>A travel blog </description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Vargas Plateau</title>
+        
+          <description>&lt;p&gt;Vargas palteau is one of the less known East Bay parks in the Fremont hills. It overlooks Niles Canyon, Fremont, Union city and San Francisco Bay beyond. We went hiking during the month of March 2019 when California in general had good showers during Spring.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /Vargas-blog</link>
+        <guid isPermaLink="true">/Vargas-blog</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Mission Peak</title>
+        
+          <description>&lt;p&gt;Mission Peak is one of the most popular hikes in the Bay Area if you are looking for some challenge. It is pretty crowded. We went hiking during the month of January when there were showers and there were green grass pastures for the cows to feed on.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /MissionPeak-blog</link>
+        <guid isPermaLink="true">/MissionPeak-blog</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Cayman Islands</title>
+        
+          <description>&lt;p&gt;Cayman Islands - One of the lesser known Caribbean Islands. So why did we choose this ? Read along to know ..&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /Cayman-blog</link>
+        <guid isPermaLink="true">/Cayman-blog</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
