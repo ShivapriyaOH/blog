@@ -1,0 +1,17 @@
+Tracking number:UA-144867889-1
+
+Tracking code: <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144867889-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144867889-1');
+</script>
+
+
+Source : 
+
+1. https://michaelsoolee.com/google-analytics-jekyll/
+2. https://analytics.google.com/
