@@ -8,6 +8,7 @@ tags: hikes
 subclass: 'post tag-hike'
 author: shivapriya
 categories: hikes
+comments: true
 logo: 'assets/images/icon.png'
 ---
 
