@@ -2,6 +2,7 @@
 layout: post
 cover: 'assets/images/garin/cover.jpg'
 navigation: true
+disqus: true
 title: Garin Regional Park
 date: 2019-03-24
 tags: hikes

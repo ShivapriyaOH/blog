@@ -12,7 +12,7 @@ description: "A travel blog "
 
 #short_url: 'jekyller.github.io/test/'
 google_analytics: 
-disqus: shivapriyaoh
+disqus: https-shivapriyaoh-github-io-blog
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /blog/
 url: "https://shivapriyaoh.github.io"
