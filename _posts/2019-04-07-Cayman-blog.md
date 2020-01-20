@@ -9,8 +9,7 @@ subclass: 'post tag-travelogue'
 author: shivapriya
 categories: shivapriya
 logo: 'assets/images/icon.png'
-comments: true
-
+disqus: true
 ---
 
 Cayman Islands - One of the lesser known Caribbean Islands. So why did we choose this ? Read along to know .. 

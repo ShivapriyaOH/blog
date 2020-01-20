@@ -9,6 +9,7 @@ subclass: 'post tag-hike'
 author: shivapriya
 categories: hikes
 logo: 'assets/images/icon.png'
+disqus: true
 ---
 
 
